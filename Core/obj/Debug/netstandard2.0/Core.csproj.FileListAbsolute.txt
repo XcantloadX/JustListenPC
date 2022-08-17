@@ -1,0 +1,9 @@
+D:\GithubRepos\JustListenPC\JustListenPC\Core\bin\Debug\netstandard2.0\Core.deps.json
+D:\GithubRepos\JustListenPC\JustListenPC\Core\bin\Debug\netstandard2.0\Core.dll
+D:\GithubRepos\JustListenPC\JustListenPC\Core\bin\Debug\netstandard2.0\Core.pdb
+D:\GithubRepos\JustListenPC\JustListenPC\Core\obj\Debug\netstandard2.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\GithubRepos\JustListenPC\JustListenPC\Core\obj\Debug\netstandard2.0\Core.AssemblyInfoInputs.cache
+D:\GithubRepos\JustListenPC\JustListenPC\Core\obj\Debug\netstandard2.0\Core.AssemblyInfo.cs
+D:\GithubRepos\JustListenPC\JustListenPC\Core\obj\Debug\netstandard2.0\Core.csproj.CoreCompileInputs.cache
+D:\GithubRepos\JustListenPC\JustListenPC\Core\obj\Debug\netstandard2.0\Core.dll
+D:\GithubRepos\JustListenPC\JustListenPC\Core\obj\Debug\netstandard2.0\Core.pdb

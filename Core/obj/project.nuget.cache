@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "32bcaU8Ab29uD2hpawH3u2JK8UHZsXx463PvXtBEHvgJ9F4EL1BoJjDoRKmI/Ha7dxB3UKuynrxOZHo9+tPG+g==",
+  "success": true,
+  "projectFilePath": "D:\\GithubRepos\\JustListenPC\\Core\\Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ZhouXiaokang\\.nuget\\packages\\managedbass\\3.1.1\\managedbass.3.1.1.nupkg.sha512",
+    "C:\\Users\\ZhouXiaokang\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\ZhouXiaokang\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
