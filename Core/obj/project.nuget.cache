@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "32bcaU8Ab29uD2hpawH3u2JK8UHZsXx463PvXtBEHvgJ9F4EL1BoJjDoRKmI/Ha7dxB3UKuynrxOZHo9+tPG+g==",
+  "dgSpecHash": "2G7S04gTDsg7zSnUQcqWRYKr0QtE/W3+uAphESnpXG/uUNYntkKCSe3ulEwd3cHIt4uL3k6ZLXbjoHyBWlE6aA==",
   "success": true,
-  "projectFilePath": "D:\\GithubRepos\\JustListenPC\\Core\\Core.csproj",
+  "projectFilePath": "D:\\GithubRepos\\JustListenPC\\Core\\JustListen.Core.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ZhouXiaokang\\.nuget\\packages\\managedbass\\3.1.1\\managedbass.3.1.1.nupkg.sha512",
     "C:\\Users\\ZhouXiaokang\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",

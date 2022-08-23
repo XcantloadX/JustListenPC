@@ -1,0 +1,25 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <RootNamespace>JustListen.Core</RootNamespace>
+    <Platforms>AnyCPU;x64;x86</Platforms>
+    <Authors>XcantloadX</Authors>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="PluginSystem\" />
+    <Folder Include="Music\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="ManagedBass" Version="3.1.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="BASS.dll">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
+</Project>

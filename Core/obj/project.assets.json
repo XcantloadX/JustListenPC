@@ -214,9 +214,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\GithubRepos\\JustListenPC\\Core\\Core.csproj",
-      "projectName": "Core",
-      "projectPath": "D:\\GithubRepos\\JustListenPC\\Core\\Core.csproj",
+      "projectUniqueName": "D:\\GithubRepos\\JustListenPC\\Core\\JustListen.Core.csproj",
+      "projectName": "JustListen.Core",
+      "projectPath": "D:\\GithubRepos\\JustListenPC\\Core\\JustListen.Core.csproj",
       "packagesPath": "C:\\Users\\ZhouXiaokang\\.nuget\\packages\\",
       "outputPath": "D:\\GithubRepos\\JustListenPC\\Core\\obj\\",
       "projectStyle": "PackageReference",
